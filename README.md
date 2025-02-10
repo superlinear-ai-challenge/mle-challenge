@@ -1,6 +1,6 @@
-# Radix - Machine Learning Challenge
+# Superlinear - Machine Learning Challenge
 
-Hiring challenge for the MLE (Machine Learning Engineer), MLD (Machine Learning software Developer), or MLE internship applicants at Radix.
+Hiring challenge for the MLE (Machine Learning Engineer), MLD (Machine Learning software Developer), or MLE internship applicants at Superlinear.
 
 
 ## Introduction 🔖
@@ -30,13 +30,13 @@ On a high-level, the challenge is divided into three different tasks, each with 
 ### GitHub setup
 
 1. Create a [new repository](https://github.com/new)
-   1. Name your repository as `{your-name}-radix-challenge`.
+   1. Name your repository as `{your-name}-superlinear-challenge`.
    2. Make sure the repository is `Private`.
 2. After you created the repository:
-   1. Go to `Settings > Collaborators and teams > Add people` and add `RadixChallenge` (`challenge@radix.ai`) with `Read` permissions so we can follow along with your progress.
+   1. Go to `Settings > Collaborators and teams > Add people` and add `RadixChallenge` (`challenge@superlinear.eu`) with `Read` permissions so we can follow along with your progress.
    2. Clone the repository onto your machine.
 3. Once you have the repository local:
-   1. Download the hiring challenge as a [ZIP-file](https://github.com/radix-ai-challenge/radix-mle-challenge/archive/refs/heads/main.zip) and unpack thhis in your cloned repository.
+   1. Download the hiring challenge as a [ZIP-file](https://github.com/superlinear-ai-challenge/mle-challenge/archive/refs/heads/main.zip) and unpack this in your cloned repository.
    2. Push the unzipped folder to GitHub to check if everything works.
 
 ### Local setup
@@ -121,10 +121,10 @@ The final score is the geometric mean of two components:
 
 ## Questions? 🤨
 
-We would love to help you with the challenge, but unfortunately we can't. 😉 That being said, if you find a bug or have troubles setting up your environment, we're happy to help you at [challenge@radix.ai](mailto:challenge@radix.ai)! 
+We would love to help you with the challenge, but unfortunately we can't. 😉 That being said, if you find a bug or have troubles setting up your environment, we're happy to help you at [challenge@superlinear.eu](mailto:challenge@superlinear.eu)! 
 
 
 
 ## Good luck! 🤞
 
-![Radix](https://media-exp1.licdn.com/dms/image/C4D0BAQH7Tz0v-I5l1g/company-logo_200_200/0/1569474265425?e=2159024400&v=beta&t=TiThE4sfIokh1WfVN04aM7qgcI__285c2xkE0bEzCtA)
+![Superlinear](https://media.licdn.com/dms/image/v2/D4E0BAQFQRO9yT7a3UQ/company-logo_200_200/company-logo_200_200/0/1726128392134/radix_ai_logo?e=1747267200&v=beta&t=AQkJHhKiaTMvwDAyfrgF2et9oDfOuEzqDX_PGOOdit0)
