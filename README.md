@@ -33,7 +33,7 @@ On a high-level, the challenge is divided into three different tasks, each with 
    1. Name your repository as `{your-name}-superlinear-challenge`.
    2. Make sure the repository is `Private`.
 2. After you created the repository:
-   1. Go to `Settings > Collaborators and teams > Add people` and add `RadixChallenge` (`challenge@superlinear.eu`) with `Read` permissions so we can follow along with your progress.
+   1. Go to `Settings > Collaborators and teams > Add people` and add `SuperlinearChallenge` (`challenge@superlinear.eu`) with `Read` permissions so we can follow along with your progress.
    2. Clone the repository onto your machine.
 3. Once you have the repository local:
    1. Download the hiring challenge as a [ZIP-file](https://github.com/superlinear-ai-challenge/mle-challenge/archive/refs/heads/main.zip) and unpack this in your cloned repository.
